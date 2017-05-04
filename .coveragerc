@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = openstack-entrypoint
+
+[report]
+ignore_errors = True
